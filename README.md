@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I’m a passionate full-stack developer with **8+ 
 📍 Based in **Bucharest, Romania 🇷🇴** | Worked across Romania & the UK  
 
 ---
-
 <p align="center">
   <img src="https://github.com/AlexandruComan111/AlexandruComan111/blob/main/face.png" width="100%" />
 </p>
