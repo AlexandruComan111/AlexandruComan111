@@ -10,8 +10,8 @@ Currently based in **Bucharest, Romania 🇷🇴**, I’ve worked with teams acr
 
 ---
 
-<p align="right">
-  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/JXA0.gif" />
+<p align="center">
+  <img src="./github-flow-banner.gif" width="100%" />
 </p>
 ## 🚀 About Me
 
