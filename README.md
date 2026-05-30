@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate full-stack developer with **8+ 
 ---
 
 <p align="center">
-  <img src="./github-flow-banner.gif" width="100%" />
+  <img src="https://github.com/AlexandruComan111/AlexandruComan111/blob/main/face.png" width="100%" />
 </p>
 
 ---
